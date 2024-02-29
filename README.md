@@ -4,7 +4,7 @@
 
 30 dias de CSS3 é um desafio, que visa melhorar minhas habilidades em HTML5 e CSS3 através da realização de projetos
 
-#### Youtube Referencias dos desafios
+#### Youtubers Referências dos desafios
 [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
 [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
 [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
